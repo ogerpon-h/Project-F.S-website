@@ -1,6 +1,2 @@
-
-layout: default
-title: "My Blog Post"
-
 # Téléchargement
 Cette page inclura un lien de téléchargement du jeu une fois celui-ci completé.
