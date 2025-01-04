@@ -3,3 +3,5 @@ title: "Project F.S"
 #author: "MTGA"
 description: "Projet de S2 à EPITA"
 show_downloads: false
+include:
+  - download.md
