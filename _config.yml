@@ -1,4 +1,5 @@
 remote_theme: pages-themes/modernist@v0.2.0
 title: "Project F.S"
-author: "MTGA"
+#author: "MTGA"
 description: "EPITA S2 project"
+show_downloads: false
