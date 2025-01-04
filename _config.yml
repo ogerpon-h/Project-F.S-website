@@ -2,6 +2,7 @@ remote_theme: pages-themes/modernist@v0.2.0
 title: "Project F.S"
 #author: "MTGA"
 description: "Projet de S2 à EPITA"
+baseurl: "/Project-F.S-website"
 show_downloads: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
