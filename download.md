@@ -2,7 +2,7 @@
 layout: default
 ---
 # Téléchargement
-Cette page inclura un lien de téléchargement vers le jeu ainsi que vers les différents rapports rédigés au cours de l'année.
+Cette page inclura un lien de téléchargement du jeu ainsi que des différents rapports rédigés au cours de l'année.
 
 ## Téléchargement du rapport
 
