@@ -1,10 +1,10 @@
 remote_theme: pages-themes/midnight@v0.2.0
 title: "Project F.S"
 #author: "MTGA"
-description: "Projet de S2 à EPITA"
+description: "Projet de S2 à l'EPITA"
 baseurl: "/Project-F.S-website"
 show_downloads: false
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 include:
   - download.md
