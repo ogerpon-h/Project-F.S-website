@@ -12,8 +12,8 @@ Cette page inclura les liens vers les ressources utilisées lors de la conceptio
 ## Ressources pour le site web
 * [Le projet tutoriel portant sur GitHub Pages](https://github.com/skills/github-pages)
 * [GitHub Pages](https://pages.github.com/)
-* [Le thème "Midnight"](https://github.com/pages-themes/midnight)
-* Pour des versions précédentes du site, [le thème "Modernist"](https://github.com/pages-themes/modernist)
+* [Le thème _Midnight_](https://github.com/pages-themes/midnight)
+* Pour des versions précédentes du site, [le thème _Modernist_](https://github.com/pages-themes/modernist)
 
 ## Ressources pour l'intelligence artificielle
 * [Introduction à l'IA des ennemis sur Unity par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=UjkSFoLxesw)
