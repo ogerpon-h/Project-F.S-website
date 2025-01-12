@@ -4,7 +4,7 @@ layout: default
 # Téléchargement
 Cette page inclura un lien de téléchargement du jeu ainsi que des différents rapports rédigés au cours de l'année.
 
-## Téléchargement du rapport
+## Téléchargement des rapports
 Cette section inclura les liens de téléchargement vers les rapports rédigés pour les multiples soutenances de l'année.
 
 ## Téléchargement du jeu
