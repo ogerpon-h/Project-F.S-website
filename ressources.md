@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Ressources utilisées
-Cette page inclura les liens vers les ressources utilisées lors de la conception du jeu et de son site web.
+Cette page inclut les liens vers les ressources utilisées lors de la conception de _Project F.S_ et de ce site web.
 
 ## Ressources générales pour le code du jeu
 * [Introduction à Unity par _Game Maker's Toolkit_](https://www.youtube.com/watch?v=XtQMytORBmM)
