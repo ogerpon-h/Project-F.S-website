@@ -8,9 +8,9 @@ Cette page inclura les liens vers les ressources utilisées lors de la conceptio
 ## Ressources générales pour le code du jeu
 * [Introduction à Unity par _Game Maker's Toolkit_](https://www.youtube.com/watch?v=XtQMytORBmM)
 * [Guide sur le movement dans un jeu à la première personne par _Natty GameDev_](https://www.youtube.com/watch?v=rJqP5EesxLk)
-* [Guide sur les armes à feu dans Unity3D par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=bqNW08Tac0Y)
+* [Guide sur les armes à feu sur Unity3D par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=bqNW08Tac0Y)
 * [Guide sur les barres de vie sur Unity par _Natty GameDev_](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEPL5NuTGjh-K__V75CkoHAK&index=1)
-* [Guide sur les projectiles dans Unity par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=0jGL5_DFIo8)
+* [Guide sur les projectiles sur Unity par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=0jGL5_DFIo8)
 
 ## Ressources pour le site web
 * [Le projet tutoriel _GitHub_ portant sur _GitHub Pages_](https://github.com/skills/github-pages)
