@@ -21,7 +21,7 @@ Cette page inclura une présentation du projet qui comprendra l'historique, la c
 > Cependant ce jeu vidéo sera d'une bien plus grande envergure que tout ce que j'ai fait jusqu’à présent. Il s'agit de la première fois que j'utilise Unity ainsi que le C# pour développer un jeu. Ce projet m'apprendra donc à utiliser ces nouveaux outils et mieux les maîtriser.
 
 ### Soula Aurélien
-<img src="/Images/aurelien-soula.jpg" alt="Aurélien Soula" width="200" height="280">
+<img src="{{ site.baseurl }}/Images/aurelien-soula.jpg" alt="Aurélien Soula" width="200" height="280">
 
 > Passionné de jeux vidéo du plus loin que je me souvienne, 
 > j'ai joué à presque tous les styles de jeux vidéo existants, des RPGs aux jeux de combat en passant par les MOBA, les jeux de plateformes, les jeux de courses, les _party games_, les _Rogue Like_... J'ai ainsi accumulé de l’expérience aussi bien sur des jeux solos que multijoueurs voire massivement multijoueurs. A défaut de pouvoir m'investir dans une pratique sportive compétitive, je me suis investi dans la compétition esportive sur Pokémon VGC.
