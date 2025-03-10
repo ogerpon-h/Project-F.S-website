@@ -7,15 +7,18 @@ Cette page inclura une présentation du projet qui comprendra l'historique, la c
 ## Présentation des membres
 
 ### Molines Martin
-![Martin Molines](https://s3.cri.epita.fr/cri-intranet/img/blank.jpg)
+<img src="{{ site.baseurl }}/Images/martin-molines.jpg" alt="Aurélien Soula" width="200" height="280">
+
 > Durant mon enfance, je vivais à la campagne. Ma famille était très déconnectée et loin des nouvelles technologies. Depuis le collège, les maths ont été ma matière de prédilection avec la physique-chimie. Je suis entré dans le monde des jeux vidéo à l'âge de 10 ans, quand j'ai eu ma première console de jeux. Je suis ensuite devenu un amoureux de jeux vidéo qui n'avait qu'un rêve : mélanger mes deux passions, les maths et les jeux vidéo, et créer mon premier jeu vidéo. J'ai commencé, comme tout le monde, avec Scratch au collège, puis j'ai commencé à me former par moi-même et à faire des projets de plus en plus complets jusqu'à aujourd'hui où j'espère bien faire le plus grand et le plus complexe de tous mes projets.
 
 ### Ma-Paw-Youn Thomas
-![Thomas Ma-Paw-Youn](https://s3.cri.epita.fr/cri-intranet/img/blank.jpg)
+<img src="{{ site.baseurl }}/Images/thomas-ma-paw-youn.jpg" alt="Aurélien Soula" width="200" height="280">
+
 > Les jeux vidéo sont une partie intégrante de mon enfance, depuis toujours je m'intéresse à la création de ces derniers. Je me suis toujours vu travailler dans un des grands studios de jeux vidéo que j'admire tant tels que _Riot Games_, _Bethesda_, _Valve_, etc. Aujourd'hui je suis toujours aussi passionné par cette grande industrie, donc pour moi ce projet est l'opportunité de m'initier à cet art de la programmation.
 
 ### Ruellan Gauthier
-![Gauthier Ruellan](https://s3.cri.epita.fr/cri-intranet/img/blank.jpg)
+<img src="{{ site.baseurl }}/Images/gauthier-ruellan.jpg" alt="Aurélien Soula" width="200" height="280">
+
 > L'informatique et les jeux vidéo font partie de ma vie depuis mon enfance. J'y ai été introduit par mon frère et, depuis, je cultive une passion pour ces deux domaines intimement liés. J'ai commencé à sérieusement m’intéresser à la création de jeux vidéo lorsque j'ai reçu mon premier vrai ordinateur pour Noël. J'ai commencé par du modding (modification d'un jeu déjà existant) notamment sur _Celeste_, _Garry's mod_ et _Portal_. Cette introduction m'a permis de développer une compréhension plus approfondie de la création d'un jeu, et elle pourra se révéler utile lors de ce projet.
 >
 > Cependant ce jeu vidéo sera d'une bien plus grande envergure que tout ce que j'ai fait jusqu’à présent. Il s'agit de la première fois que j'utilise Unity ainsi que le C# pour développer un jeu. Ce projet m'apprendra donc à utiliser ces nouveaux outils et mieux les maîtriser.
