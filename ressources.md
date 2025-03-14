@@ -11,6 +11,7 @@ Cette page inclut les liens vers les ressources utilisées lors de la conception
 * [Guide sur les armes à feu sur Unity3D par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=bqNW08Tac0Y)
 * [Guide sur les barres de vie sur Unity par _Natty GameDev_](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEPL5NuTGjh-K__V75CkoHAK&index=1)
 * [Guide sur les projectiles sur Unity par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=0jGL5_DFIo8)
+* [Guide pour le mutlijoueur sur Unity par _Bobsi Tutorials_](https://www.youtube.com/playlist?list=PLF6lFlLzb6CRxfil3ELN_KR3EyU97ViuC)
 
 ## Ressources pour l'intelligence artificielle
 * [Introduction à l'IA des ennemis sur Unity par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=UjkSFoLxesw)
