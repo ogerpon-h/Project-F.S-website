@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-
   li {
     &.download{
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
