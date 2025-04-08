@@ -16,12 +16,12 @@ ul {
 
       a {
         color: white;
-        border: 1px solid #5d910b;
-        background: linear-gradient(#93bd20, #659e10);
+        /*border: 1px solid #5d910b;*/
+        background: linear-gradient(#404040, #505050);
         border-radius: 2px;
         box-shadow: inset 0px 1px 0px rgba(255, 255, 255, .3), 0px 3px 7px rgba(0, 0, 0, .7);
 
-        background-color: #93bd20;
+        background-color: #474747;
         padding: 10px 12px;
         margin-top: 6px;
         line-height: 14px;
@@ -30,9 +30,9 @@ ul {
         text-align: center;
 
         &:hover {
-          background: linear-gradient(#749619, #527f0e);
-          background-color: #659e10;
-          border: 1px solid #527f0e;
+          background: linear-gradient(#303030, #505050);
+          background-color: #606060;
+          /*border: 1px solid #527f0e;*/
           box-shadow: inset 0px 1px 1px rgba(0, 0, 0, .2), 0px 1px 0px rgba(0, 0, 0, .0);
         }
       }
@@ -40,3 +40,47 @@ ul {
     }
     
 }
+
+#header{
+  nav{
+    ul {
+      li {
+        &.fork{
+          font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-weight: normal;
+          list-style: none;
+          display: inline;
+          color: white;
+          line-height: 50px;
+          text-shadow: 0px 1px 0px rgba(0, 0, 0, .2);
+          font-size: 14px;
+
+          a {
+            color: white;
+            border: 1px solid #474747;
+            background: linear-gradient(#404040, #505050);
+            border-radius: 2px;
+            box-shadow: inset 0px 1px 0px rgba(255, 255, 255, .3), 0px 3px 7px rgba(0, 0, 0, .7);
+
+            background-color: #474747;
+            padding: 10px 12px;
+            margin-top: 6px;
+            line-height: 14px;
+            font-size: 14px;
+            display: inline-block;
+            text-align: center;
+
+            &:hover {
+              background: linear-gradient(#303030, #505050);
+              background-color: #606060;
+              border: 1px solid #606060;
+              box-shadow: inset 0px 1px 1px rgba(0, 0, 0, .2), 0px 1px 0px rgba(0, 0, 0, .0);
+            }
+          }
+        }
+      }
+
+    }
+  }
+}
+
