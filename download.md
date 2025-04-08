@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 # Téléchargement
 Cette page inclura un lien de téléchargement du jeu ainsi que des différents rapports rédigés au cours de l'année.
