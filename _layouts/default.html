@@ -4,12 +4,66 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.scss" type="text/css">
     <style> body {
       background: black;
+      height: 2000px;
     }
     #title {
       transition: opacity 5s;
-    } .hide { opacity: 0; height: 0; padding: 0; margin: 0; }
+    } .hide { opacity: 0; }
+
+    ul {
+      li {
+        &.download{
+          font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-weight: normal;
+          list-style: none;
+          display: inline;
+          color: white;
+          line-height: 50px;
+          text-shadow: 0px 1px 0px rgba(0, 0, 0, .2);
+          font-size: 14px;
+
+          a {
+            color: white;
+            /*border: 1px solid #5d910b;*/
+            background: linear-gradient(#404040, #505050);
+            border-radius: 2px;
+            box-shadow: inset 0px 1px 0px rgba(255, 255, 255, .3), 0px 3px 7px rgba(0, 0, 0, .7);
+
+            background-color: #474747;
+            padding: 10px 12px;
+            margin-top: 6px;
+            line-height: 14px;
+            font-size: 14px;
+            display: inline-block;
+            text-align: center;
+
+            &:hover {
+              background: linear-gradient(#303030, #505050);
+              background-color: #606060;
+              /*border: 1px solid #527f0e;*/
+              box-shadow: inset 0px 1px 1px rgba(0, 0, 0, .2), 0px 1px 0px rgba(0, 0, 0, .0);
+            }
+          }
+        }
+      }
+    }
+
+    .hidden {
+      transform: translateX(-100%);
+      transition: transform 1.5s ease-in-out;
+    }
+
+    .visible {
+      transform: translateX(0);
+    }
+
+    .target {
+      margin-top: 200px;
+      height: 0px;
+    }
     </style>
   </head>
   <body>
@@ -19,10 +73,17 @@
         <div id="title" class="hide">
           <img src="{{ site.baseurl }}/Images/logo.png" alt="Logo" style="position: relative; left: 230px;" width="690x" height="690px">
           <!--h1>{{ site.title | default: site.github.repository_name }}</h1-->
-          <hr>
           
         </div>
         
+        <div id="buttons" class="hidden">
+          <ul>
+            <li class="download"><a href="{{ site.baseurl }}/presentation">Présentation du projet</a></li>
+          </ul>
+         
+        </div>
+
+        <div class="target" id="targetPoint"></div>
 
       </section>
 
@@ -34,11 +95,24 @@
         console.log('test')
         
         setTimeout(LogoFadeIn,1000)
+
+        window.addEventListener("scroll", () => {
+          const target = document.getElementById("targetPoint");
+          const targetPosition = target.getBoundingClientRect().top;
+          
+          if (targetPosition <= window.innerHeight && targetPosition > 0) {
+            ButtonsSlideIn()
+          }
+        });
         
         function LogoFadeIn() {
           document.getElementById("title").classList.toggle('hide')
+          
         }
-        //don't have time to see the transition
+        
+        function ButtonsSlideIn() {
+          document.getElementById("buttons").classList.add("visible")
+        }
       })();
     </script>
   </body>
