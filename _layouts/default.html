@@ -40,6 +40,8 @@
             display: inline-block;
             text-align: center;
             text-decoration: none;
+            
+            width: 260px;
 
             &:hover {
               background: linear-gradient(#303030, #505050);
@@ -54,19 +56,21 @@
 
     #buttons{
       margin-top: -600px;
-      transition: opacity 5s;
     }
     
-    #buttons2{
+    /*#buttons2{
       transition: opacity 5s;
     }
     
     #buttons3{
       transition: opacity 5s;
-    }
+    }*/
     
     .hidden {
       opacity: 0;
+      transform: translateX(100%);
+      transition: opacity 8s, transform 2s;
+      will-change: transform, opacity;
     }
 
     .hidden2 {
@@ -94,19 +98,19 @@
           
         </div>
         
-        <div id="buttons" class="hide">
+        <div id="buttons" class="hidden">
           <ul>
             <li class="download"><a href="{{ site.baseurl }}/presentation">Présentation du projet</a></li>
           </ul>
         </div>
 
-        <div id="buttons2" class="hide">
+        <div id="buttons2" class="hidden">
           <ul>
             <li class="download"><a href="{{ site.baseurl }}/ressources">Ressources</a></li>
           </ul>
        </div>
 
-        <div id="buttons3" class="hide">
+        <div id="buttons3" class="hidden">
           <ul>
             <li class="download"><a href="{{ site.baseurl }}/download">Téléchargement</a></li>
           </ul>
@@ -135,10 +139,10 @@
         });*/
         
         function LogoFadeIn() {
+          document.getElementById("buttons").classList.add("visible")
+          document.getElementById("buttons2").classList.add("visible")
+          document.getElementById("buttons3").classList.add("visible")
           document.getElementById("title").classList.toggle('hide')
-          document.getElementById("buttons").classList.toggle("hide")
-          document.getElementById("buttons2").classList.toggle("hide")
-          document.getElementById("buttons3").classList.toggle("hide")
         }
         
         /*function ButtonsSlideIn() {
