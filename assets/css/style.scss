@@ -4,6 +4,14 @@
 @import "{{ site.theme }}";
 ul {
   li {
+    a {
+      color: cornflowerblue;
+      
+      &:hover {
+        color: lightblue;
+      }
+    }
+    
     &.download{
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
