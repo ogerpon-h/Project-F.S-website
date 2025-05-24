@@ -23,5 +23,8 @@ Cette page inclut les liens vers les ressources utilisées lors de la conception
 * [Le thème _Midnight_](https://github.com/pages-themes/midnight)
 * Pour des versions précédentes du site, [le thème _Modernist_](https://github.com/pages-themes/modernist)
 
+## Assets pour le jeu
+* [Les clés et le code pour les faire tourner](https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764)
+
 
 
