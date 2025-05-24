@@ -57,8 +57,11 @@
       }
     }
 
-    #buttons{
-      margin-top: -600px;
+    #buttons {
+      margin-top: -90vh;
+      position: relative;
+      height: 20vh;
+      width: 100vw
     }
     
     /*#buttons2{
@@ -96,14 +99,14 @@
 
       <section>
         <div id="title" class="hide">
-          <img src="{{ site.baseurl }}/Images/logo.png" alt="Logo" style="position: relative;" width="690x" height="690px">
+          <img src="{{ site.baseurl }}/Images/logo.png" alt="Logo" style="position: relative; height: 100vh; width: 50vw" width="690x" height="690px">
           <!--h1>{{ site.title | default: site.github.repository_name }}</h1-->
           
         </div>
         
         <div id="buttons" class="hidden">
           <ul>
-            <li class="download"><a href="{{ site.baseurl }}/presentation">Présentation du projet</a></li>
+            <li class="download" ><a href="{{ site.baseurl }}/presentation">Présentation du projet</a></li>
           </ul>
         </div>
 
