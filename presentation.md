@@ -2,9 +2,11 @@
 layout: main
 ---
 # Présentation du projet
-Cette page inclura une présentation du projet qui comprendra l'historique, la chronologie des réalisations, les présentations des membres, les problèmes rencontrés et les solutions envisagées.
 
-## Présentation des membres
+## Le jeu 
+
+
+## Les membres
 
 ### Molines Martin
 <img src="{{ site.baseurl }}/Images/martin-molines.jpg" alt="Aurélien Soula" width="200" height="280">
@@ -31,3 +33,5 @@ Cette page inclura une présentation du projet qui comprendra l'historique, la c
 >  
 > Je me suis vite intéressé à l'aspect programmation qu'il y a derrière chaque jeu vidéo. Je me suis donc essayé à RPG maker - logiciel facilitant la création de _Role Playing Games_, généralement en deux dimensions - ce qui m'a donné un avant-goût de la programmation. Au fur et à mesure des années, j'ai pris la décision d'entreprendre des études dans l'informatique au sens large sans restreindre les débouchés de ma formation à l'industrie vidéoludique. L'an dernier, j'ai contribué à améliorer un site web, ce qui a été pour moi une très bonne occasion d'apprendre les bases des langages HTML et JavaScript. Je vais maintenant m'appuyer sur ces connaissances pour, malgré ma non-expertise du genre des _Fast FPS_ (type de jeu retenu par notre groupe), participer activement au développement du jeu et de son site web et développer de nouveaux savoirs en chemin.
 
+Ensemble, ces membres forment notre entreprise, MTGA.  
+<img src="{{ site.baseurl }}/Images/MTGA.png" alt="Aurélien Soula" width="200" height="280">
