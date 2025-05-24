@@ -1,8 +1,7 @@
 ---
 layout: main
 ---
-# Téléchargement
-Cette page inclura un lien de téléchargement du jeu ainsi que des différents rapports rédigés au cours de l'année.
+# Téléchargements
 
 ## Rapports
  <ul>
@@ -13,4 +12,6 @@ Cette page inclura un lien de téléchargement du jeu ainsi que des différents 
           </ul>
 
 ## Exécutables du jeu
-Cette section inclura un lien de téléchargement du jeu une fois celui-ci finalisé, ainsi qu'un lien de téléchargement vers une version allégée du projet.
+<ul>
+                        <li class="download"><a href="{{ site.baseurl }}/Project F.S Build.exe">Installeur du jeu</a></li>
+          </ul>
