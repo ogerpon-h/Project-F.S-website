@@ -14,7 +14,7 @@ layout: main
 
 ## Exécutables du jeu
 <ul>
-                        <li class="download"><a href="{{ site.baseurl }}/Game/Project F.S Build.exe">Installeur du jeu</a></li>
+                        <li class="download"><a href="{{ site.baseurl }}/Game/PFS Setup.exe">Installeur du jeu</a></li>
                         <li class="download"><a href="{{ site.baseurl }}/Game/Manuel d'installation et d'utilisation.pdf">Manuel d'installation et d'utilisation</a></li>
 
 </ul>
