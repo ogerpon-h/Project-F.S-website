@@ -28,6 +28,11 @@ Cette page inclut les liens vers les ressources utilisées lors de la conception
 ## Assets pour le jeu
 * [Les clés et le code pour les faire tourner](https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764)
 * [L'interface et l'UI](https://assetstore.unity.com/packages/tools/gui/3d-modern-menu-ui-116144)
-
+* [assets pour les Map](https://assetstore.unity.com/packages/3d/environments/sci-fi/free-lowpoly-scifi-110070)
+* [assets pour les tourelles](https://assetstore.unity.com/packages/3d/environments/sci-fi/robo-s-turret-free-sample-147413)
+* [assets pour les modèles multijoueur](https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154)
+* [assets pour les ennemis](https://assetstore.unity.com/packages/3d/characters/robots/robot-humanoid-low-poly-281743)
+* [assets pour les armes](https://assetstore.unity.com/packages/3d/props/weapons/low-poly-ar-weapon-pack-1-276916)
+* [assets pour les drones](https://assetstore.unity.com/packages/3d/characters/robots/low-poly-combat-drone-82234)
 
 
