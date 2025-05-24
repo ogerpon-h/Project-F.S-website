@@ -13,6 +13,11 @@ Project F.S est un jeu vidéo de type Fast FPS/Movement shooter. Celui-ci sera p
 -- Level-design et Importation d'assets\
 -- Finalisation et équilibrages
 
+## Problèmes rencontré
+-- Difficultés lors de l'implémentation des annimations\
+-- Difficultés lors de l'implementation du mode multijoueur\
+-- difficultés lors de la syncronisation des annimations du mode multijouer
+
 ## Les membres
 
 ### Molines Martin
