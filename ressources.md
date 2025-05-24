@@ -12,6 +12,8 @@ Cette page inclut les liens vers les ressources utilisées lors de la conception
 * [Guide sur les barres de vie sur Unity par _Natty GameDev_](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEPL5NuTGjh-K__V75CkoHAK&index=1)
 * [Guide sur les projectiles sur Unity par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=0jGL5_DFIo8)
 * [Guide pour le mutlijoueur sur Unity par _Bobsi Tutorials_](https://www.youtube.com/playlist?list=PLF6lFlLzb6CRxfil3ELN_KR3EyU97ViuC)
+* [Musique des Niveaux](https://www.fesliyanstudios.com/royalty-free-music/download/action-rhythms/431)
+* [Banque de son pour les SFX](https://www.splice.com/)
 
 ## Ressources pour l'intelligence artificielle
 * [Introduction à l'IA des ennemis sur Unity par _Dave / GameDevelopment_](https://www.youtube.com/watch?v=UjkSFoLxesw)
@@ -25,6 +27,7 @@ Cette page inclut les liens vers les ressources utilisées lors de la conception
 
 ## Assets pour le jeu
 * [Les clés et le code pour les faire tourner](https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764)
+* [L'interface et l'UI](https://assetstore.unity.com/packages/tools/gui/3d-modern-menu-ui-116144)
 
 
 
