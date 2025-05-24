@@ -4,19 +4,19 @@ layout: main
 # Présentation du projet
 
 ## Le jeu 
-Project F.S est un jeu vidéo de type Fast FPS/Movement shooter. Celui-ci sera principalement axé sur le gameplay et plus particulièrement sur les déplacements du personnage joueur dans l'environnement. L'histoire se déroule dans le cadre futuriste d'un laboratoire, plus particulièrement dans des chambres de tests -- tests auxquels le joueur est forcé de participer. Vous drevez donc affronter les épreuves sur votre route pour pouvoir survivre dans cet environnement hostile.
+Project F.S est un jeu vidéo de type Fast FPS/Movement shooter. Celui-ci est principalement axé sur le gameplay et plus particulièrement sur les déplacements du personnage joueur dans l'environnement. L'histoire se déroule dans le cadre futuriste d'un laboratoire, plus particulièrement dans des chambres de tests -- tests auxquels le joueur est forcé de participer. Vous devez donc affronter les épreuves sur votre route pour pouvoir survivre dans cet environnement hostile.
 
 ## Chronologie de réalisation
 -- Idée Initiale du Jeu\
 -- Conception et implémentation du moteur physique\
--- Conception et implémentation de l'UI et des insterfaces\
--- Level-design et Importation d'assets\
+-- Conception et implémentation des interfaces\
+-- Level-design et importation d'assets\
 -- Finalisation et équilibrages
 
-## Problèmes rencontrés
+## Problèmes rencontrés et surmontés
 -- Difficultés lors de l'implémentation des annimations\
 -- Difficultés lors de l'implementation du mode multijoueur\
--- difficultés lors de la syncronisation des annimations du mode multijouer
+-- Difficultés lors de la synchronisation des annimations du mode multijoueur
 
 ## Les membres
 
