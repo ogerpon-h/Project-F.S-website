@@ -6,32 +6,33 @@ layout: main
 ## Le jeu 
 Project F.S est un jeu vidéo de type Fast FPS/Movement shooter. Celui-ci est principalement axé sur le gameplay et plus particulièrement sur les déplacements du personnage joueur dans l'environnement. L'histoire se déroule dans le cadre futuriste d'un laboratoire, plus particulièrement dans des chambres de tests -- tests auxquels le joueur est forcé de participer. Vous devez donc affronter les épreuves sur votre route pour pouvoir survivre dans cet environnement hostile.
 
-## Chronologie de réalisation
--- Idée Initiale du Jeu\
+## Chronologie des réalisations
+-- Idée initiale du jeu\
 -- Conception et implémentation du moteur physique\
+-- Conception et implémentation des méchaniques de jeu\
 -- Conception et implémentation des interfaces\
 -- Level-design et importation d'assets\
 -- Finalisation et équilibrages
 
 ## Problèmes rencontrés et surmontés
--- Difficultés lors de l'implémentation des annimations\
+-- Difficultés lors de l'implémentation des animations\
 -- Difficultés lors de l'implementation du mode multijoueur\
--- Difficultés lors de la synchronisation des annimations du mode multijoueur
+-- Difficultés lors de la synchronisation des animations du mode multijoueur
 
 ## Les membres
 
 ### Molines Martin
-<img src="{{ site.baseurl }}/Images/martin-molines.jpg" alt="Aurélien Soula" width="200" height="280">
+<img src="{{ site.baseurl }}/Images/martin-molines.jpg" alt="Martin Molines" width="200" height="280">
 
 > Durant mon enfance, je vivais à la campagne. Ma famille était très déconnectée et loin des nouvelles technologies. Depuis le collège, les maths ont été ma matière de prédilection avec la physique-chimie. Je suis entré dans le monde des jeux vidéo à l'âge de 10 ans, quand j'ai eu ma première console de jeux. Je suis ensuite devenu un amoureux de jeux vidéo qui n'avait qu'un rêve : mélanger mes deux passions, les maths et les jeux vidéo, et créer mon premier jeu vidéo. J'ai commencé, comme tout le monde, avec Scratch au collège, puis j'ai commencé à me former par moi-même et à faire des projets de plus en plus complets jusqu'à aujourd'hui où j'espère bien faire le plus grand et le plus complexe de tous mes projets.
 
 ### Ma-Paw-Youn Thomas
-<img src="{{ site.baseurl }}/Images/thomas-ma-paw-youn.jpg" alt="Aurélien Soula" width="200" height="280">
+<img src="{{ site.baseurl }}/Images/thomas-ma-paw-youn.jpg" alt="Thomas Ma-Paw-Youn" width="200" height="280">
 
 > Les jeux vidéo sont une partie intégrante de mon enfance, depuis toujours je m'intéresse à la création de ces derniers. Je me suis toujours vu travailler dans un des grands studios de jeux vidéo que j'admire tant tels que _Riot Games_, _Bethesda_, _Valve_, etc. Aujourd'hui je suis toujours aussi passionné par cette grande industrie, donc pour moi ce projet est l'opportunité de m'initier à cet art de la programmation.
 
 ### Ruellan Gauthier
-<img src="{{ site.baseurl }}/Images/gauthier-ruellan.jpg" alt="Aurélien Soula" width="200" height="280">
+<img src="{{ site.baseurl }}/Images/gauthier-ruellan.jpg" alt="Gauthier Ruellan" width="200" height="280">
 
 > L'informatique et les jeux vidéo font partie de ma vie depuis mon enfance. J'y ai été introduit par mon frère et, depuis, je cultive une passion pour ces deux domaines intimement liés. J'ai commencé à sérieusement m’intéresser à la création de jeux vidéo lorsque j'ai reçu mon premier vrai ordinateur pour Noël. J'ai commencé par du modding (modification d'un jeu déjà existant) notamment sur _Celeste_, _Garry's mod_ et _Portal_. Cette introduction m'a permis de développer une compréhension plus approfondie de la création d'un jeu, et elle pourra se révéler utile lors de ce projet.
 >
